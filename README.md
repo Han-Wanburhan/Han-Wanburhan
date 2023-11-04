@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>👋I'm Wanburhan Wae-Useng!</h1>
 
-<!--
-**Han-Wanburhan/Han-Wanburhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ```python
+Aboutme = {
+   name: "Han",
+   codes: ["HTML", "CSS", "JavaScript", "Python", "C", "C#", "ShellScript"],
+   askMeAbout: ["Front-End", "Back-End", "DevOps"],
+   technologies: {
+       automate: ["GoCD", "GitLab", "Jenkins"],
+       cloud: ["Netlify", "AWS", "GCP"],
+       database: ["MySQL"],
+       misc: ["Docker", "React.js", "Express.js", "Flask", "ASP.NET Core MVC"],
+       os: ["Linux", "macOS", "Windows"],
+   },
+   Study@: ["KMITL", "Computer Engineering"],
+   Internship@: ["Krungsri Auto", "DevOps"],
+   Hobbies: ["Game", "Music", "Sport", "Drive"]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+};
